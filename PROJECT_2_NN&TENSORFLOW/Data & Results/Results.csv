@@ -1,0 +1,5 @@
+﻿ID,Sensitivity,Specificity,AUC,Accuracy,
+Model 0,0.89,0.78,0.91,0.83,
+Model 1,1.00,0.00,0.50,0.50,
+Model 2,0.86,0.72,0.86,0.79,
+Model 3,1,0,0.5,0.5,
