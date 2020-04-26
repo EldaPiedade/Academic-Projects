@@ -1,4 +1,4 @@
-# FINAL_PROJECTS_DATA_4319_ELDA-PIEDADE
+# DATA 4319 Projects
 ## Project 1
 * Data : Sentiment Labelled Sentences
 * Model : Logistic Regression Algorithm
