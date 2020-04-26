@@ -33,9 +33,10 @@
 * Data : Conoco Phillis Equipment Failure 
 * Model: Pocket Algorithm
 * Task : Classification
+* Python
 
 ## Project 7
 * Data: Measures of Diabetes
 * Model: Linear Regression
 * Task : Regression
-Julia
+* Julia
