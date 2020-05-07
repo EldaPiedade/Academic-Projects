@@ -40,3 +40,9 @@
 * Model: Linear Regression
 * Task : Regression
 * Julia
+
+## Project 8
+* Data: Wisconsin Breast Cancer
+* Model: KNN
+* Task : Classification
+* Julia
