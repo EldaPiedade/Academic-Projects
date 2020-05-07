@@ -46,3 +46,10 @@
 * Model: KNN
 * Task : Classification
 * Julia
+
+## Project 9
+* Data: "------------"
+* Model: Decision Trees/ Random Forest
+* Task : Regression
+* Python
+
