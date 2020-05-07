@@ -53,3 +53,8 @@
 * Task : Regression
 * Python
 
+## Project 10
+* Data: "------------"
+* Model: K-Means Clustering
+* Task : Clustering
+* Julia
