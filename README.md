@@ -54,7 +54,7 @@
 * Python
 
 ## Project 10
-* Data: "------------"
-* Model: K-Means Clustering
-* Task : Clustering
-* Julia
+* Data: Iris
+* Model: Neural Network
+* Task : Multi-class Classification
+* Python
