@@ -48,13 +48,13 @@
 * Julia
 
 ## Project 9
-* Data: "------------"
+* Data: " Iowa Housing Dataset"
 * Model: Decision Trees/ Random Forest
 * Task : Regression
 * Python
 
 ## Project 10
-* Data: "------------"
-* Model: K-Means Clustering
-* Task : Clustering
-* Julia
+* Data: Iris
+* Model: Neural Network
+* Task : Multi-class Classification
+* Python
