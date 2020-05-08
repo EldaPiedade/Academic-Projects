@@ -40,3 +40,21 @@
 * Model: Linear Regression
 * Task : Regression
 * Julia
+
+## Project 8
+* Data: Wisconsin Breast Cancer
+* Model: KNN
+* Task : Classification
+* Julia
+
+## Project 9
+* Data: "------------"
+* Model: Decision Trees/ Random Forest
+* Task : Regression
+* Python
+
+## Project 10
+* Data: "------------"
+* Model: K-Means Clustering
+* Task : Clustering
+* Julia
