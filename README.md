@@ -1,4 +1,12 @@
 # DATA 4319 Projects
+
+For this class, we are tasked to design 10 machine learning projects. The projects are individuals and only review by the course instructor at the end of course for a final evaluation.
+
+The machine learning algorithms programmed from scratch are Logistic regression, MLP, Pocket algorithm, Perceptron algorithm, Linear regression, and KNN.
+The other algorithms were imported from python TensorFlow and scikit-learn libraries.
+
+Other skills displayed are data pre-processing, data cleaning, etc.
+
 ## Project 1
 * Data : Sentiment Labelled Sentences
 * Model : Logistic Regression Algorithm
